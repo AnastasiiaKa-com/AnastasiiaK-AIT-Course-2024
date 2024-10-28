@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5cff2c9f-da97-4187-8cd1-16895d906d6c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../lesson_18/code/Classwork_18/class_filed.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_18/lesson_18.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_19/code/Classwork_19/Compare_string.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_19/code/Classwork_19/compare_computers/ComperComputers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_19/code/Classwork_19/compare_computers/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_19/code/Homework_19/Food.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_19/code/Homework_19/MarketAppl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_19/code/Homework_19/MeatFood.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_19/code/Homework_19/MilkFood.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_19/code/Homework_19/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_20/code/Classwork_20/application/ArgAppl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_20/code/Classwork_20/wrapper_classes_examples/WrapperCllasAppl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_20/code/Homework_20/homework/String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_20/code/Homework_20/homework/SumOfNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_21/code/Claswork_21/string_numbers_idd/array_tdd/ArrayTdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_21/code/Claswork_21/string_numbers_idd/user/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_21/code/Claswork_21/string_numbers_idd/user/UserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Classwork_22/user/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Classwork_22/user/UserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_23/code/Classwork_23/book_ibrary/controler/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_23/code/Classwork_23/book_ibrary/model/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_23/code/Classwork_23/book_ibrary/test/LibraryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_23/code/Homework_23/car/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_23/code/Homework_23/document/document/Document.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_24/code/Classwork_24/book_library/controler/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_24/code/Classwork_24/book_library/model/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_24/code/Classwork_24/book_library/test/LibraryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_25/code/Classwork_25/regex_appl/RegexAppl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_25/code/Classwork_25/regex_validator/Validator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_25/code/Classwork_25/regex_validator/ValidatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_25/code/Classwork_25/sb_vs_string/PerfomanceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_25/code/Classwork_25/string_builder/StringBilderAppl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_26/code/Classwork_26/ait/employee/FirmaAppl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_26/code/Classwork_26/ait/employee/dao/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_26/code/Classwork_26/ait/employee/dao/CompanyImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_26/code/Classwork_26/ait/employee/model/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_26/code/Classwork_26/ait/employee/model/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_26/code/Classwork_26/ait/employee/model/SalesManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_26/code/Classwork_26/ait/employee/model/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_26/code/Classwork_26/ait/employee/test/CompanyImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ait Java Course 2024.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2nbOBvskif3GzWeGpkSbqKmAhcP" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/AIT TR/Ait Java Course 2024"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-4caba194b151-23eed401" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5cff2c9f-da97-4187-8cd1-16895d906d6c" name="Changes" comment="" />
+      <created>1729238176847</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729238176847</updated>
+    </task>
+    <servers />
+  </component>
+</project>
